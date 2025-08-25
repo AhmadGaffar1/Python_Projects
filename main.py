@@ -1,11 +1,15 @@
 ########################################################################################################################
-# cd PyCharmProjects/FastAPI_01
+from dotenv import load_dotenv
+import os
+load_dotenv()
+secret = os.getenv("SECRET_KEY")
+print(secret)
+
 
 from fastapi import FastAPI,Body
 from uuid import UUID, uuid4
 
 app = FastAPI()
-
 ########################################################################################################################
 
 class Student():

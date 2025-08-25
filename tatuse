@@ -1,0 +1,17 @@
+[33mcommit d850f3a1eb1d66f20f3f577d19d829f45f52ecd8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ahmad Gaffar <ahmadgaffar@outlook.com>
+Date:   Mon Aug 25 06:07:22 2025 +0300
+
+    adding Github Key for repo ( Python_Projects ) into .gitignore
+
+[33mcommit e5181d2892b134bdaa605da38289fb4784117292[m
+Author: Ahmad Gaffar <ahmadgaffar@outlook.com>
+Date:   Mon Aug 25 05:55:31 2025 +0300
+
+    This is the inital commit after ( declare requirments.txt & install and activate venv & .env & best practices for .gitignore )
+
+[33mcommit 2d198329a2e13cbc8acef473d1e86866253bb307[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ahmad Gaffar <ahmadgaffar@outlook.com>
+Date:   Sun Aug 24 10:46:59 2025 +0300
+
+    Initial Commit for a FastAPI Project
